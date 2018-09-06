@@ -6,8 +6,7 @@
     background-position: center;
 }
 #whiteSpace {
-    height: 400px;
-    background-color: rgb(255,255,255,0);
+    height: 400px;    
 }
 #gallery {
     /* height: 100vh; */
