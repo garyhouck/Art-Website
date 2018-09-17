@@ -23,13 +23,25 @@ body {
 }
 #about {
     height: 100vh;
-    background-color: whitesmoke;   
+    background-color: white;   
     width: 90%;
     margin-left: 5%;
     margin-right: 5%;
     margin-bottom: 500px;
 }
-
+#joanPic {
+    margin: auto;
+    width: 80%;
+}
+.aboutParagraph {
+    padding: 100px;
+}
+#aboutHeading {
+    color: purple;
+}
+.notes {
+    /* box-shadow: 0px 0px 30px .5px gray; */
+}
 .tag {
     color: white;
     text-align: center;
