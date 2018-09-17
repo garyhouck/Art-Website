@@ -1,12 +1,12 @@
 #home {
     height: 100vh;
-    background-image: url('images/painting-smaller.jpg');
+    background-image: url('images/painting-edited-smaller.jpg');
     background-size: cover;
     background-repeat: no-repeat;
-    background-position: center;
+    background-position: center;    
 }
 #whiteSpace {
-    height: 400px;
+    height: 250px;
     background-color: rgb(255,255,255,0);
 }
 #gallery {
@@ -39,7 +39,7 @@ body {
 }
 .paintings {
     width: 80%;
-    margin: auto;
+    margin: auto;    
 }
 .paintings:hover {
     opacity: .5;
@@ -79,4 +79,10 @@ body {
     text-align: center;
     color: purple;
     margin-bottom: 100px;
+}
+#homeForm {
+    width: 100%;
+    /* margin: auto;     */
+    height: 50%;
+    background-color: rgb(0,0,0,.5);
 }
