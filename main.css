@@ -20,6 +20,7 @@ body {
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+    overflow-x: hidden;
 }
 #logo {
     width: 200px;
@@ -103,11 +104,11 @@ body {
 .galleryTag {
     text-align: center;
     color: purple;
-    margin-bottom: 100px;
+    margin-bottom: 50px;
 }
 #homeForm {
     width: 100%;
     /* margin: auto;     */
-    height: 50%;
+    height: 100%;
     background-color: rgb(0,0,0,.5);
 }
