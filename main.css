@@ -21,20 +21,36 @@ body {
     background-repeat: no-repeat;
     background-size: cover;
 }
+#logo {
+    width: 200px;
+    margin-right: 400px;
+    padding-left: 10px;
+}
+.tagline {
+    position: relative;
+    top: 8px;
+}
+.navbar {
+    border-bottom: solid 2px  purple;
+}
 #about {
-    height: 100vh;
+    
     background-color: white;   
     width: 90%;
     margin-left: 5%;
     margin-right: 5%;
     margin-bottom: 500px;
+   
 }
 #joanPic {
     margin: auto;
-    width: 80%;
+    width: 100%;
 }
 .aboutParagraph {
     padding: 100px;
+}
+.notes {
+    margin-bottom: 20px;
 }
 #aboutHeading {
     color: purple;
